@@ -51,4 +51,4 @@ python run_weekly.py --test
 - `outputs/detailed_theme_breakdown.pdf`: Deep-dive artifact with "Why this matters" context.
 
 ---
-*Maintained by the AI Engineering Team.*
+*Created By Aviral Singhal*
