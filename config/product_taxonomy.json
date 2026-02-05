@@ -1,0 +1,79 @@
+{
+    "Payments & Refunds": {
+        "description": "Issues related to payment processing, refunds, coupons, wallets, and failed transactions.",
+        "keywords": [
+            "refund",
+            "money",
+            "charged",
+            "payment failed",
+            "upi",
+            "card",
+            "wallet",
+            "coupon",
+            "voucher",
+            "promo",
+            "cashback"
+        ]
+    },
+    "Delivery & Logistics": {
+        "description": "Issues related to order delivery timelines, shipment tracking, and courier performance.",
+        "keywords": [
+            "delivery",
+            "late",
+            "delay",
+            "shipment",
+            "tracking",
+            "courier",
+            "out for delivery",
+            "not delivered"
+        ]
+    },
+    "Wrong / Missing Items": {
+        "description": "Cases where users received incorrect, incomplete, or missing products.",
+        "keywords": [
+            "wrong item",
+            "different product",
+            "missing",
+            "exchange",
+            "received something else"
+        ]
+    },
+    "Returns & Customer Support": {
+        "description": "Issues involving returns, pickups, customer service, and complaint resolution.",
+        "keywords": [
+            "return",
+            "pickup",
+            "support",
+            "customer care",
+            "help",
+            "complaint",
+            "no response"
+        ]
+    },
+    "App Experience & Stability": {
+        "description": "Problems related to app usability, crashes, login issues, and device compatibility.",
+        "keywords": [
+            "app",
+            "crash",
+            "login",
+            "slow",
+            "bug",
+            "iphone",
+            "android",
+            "freeze"
+        ]
+    },
+    "Product Quality & Pricing": {
+        "description": "Feedback about product quality, fabric, sizing, and perceived pricing value.",
+        "keywords": [
+            "quality",
+            "fabric",
+            "cheap",
+            "size",
+            "fit",
+            "expensive",
+            "worth",
+            "price"
+        ]
+    }
+}

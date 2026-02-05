@@ -1,0 +1,23 @@
+Subject: Amazon India — Weekly App Review Pulse (05 Feb 2026)
+
+Hi team,
+
+Recent feedback for Amazon India highlights Delivery & Logistics and Payments & Refunds as key focus areas.
+
+## Top Themes
+- Delivery & Logistics (639 reviews)
+- Payments & Refunds (155 reviews)
+- App Experience & Stability (119 reviews)
+
+## Rating Distribution (This Period)
+- 1–2★: 71%
+- 3★: 19%
+- 4–5★: 10%
+
+## Action Ideas
+- Identify regions with repeated delivery delays and work with logistics partners to improve SLA adherence.
+- Improve refund transparency by surfacing real-time refund status and reducing turnaround time for wrong-item cases.
+- Prioritize fixes for high-impact crashes and checkout issues across iOS and Android devices.
+
+Best,
+Product Manager

@@ -1,0 +1,7 @@
+{
+    "APP_PACKAGE_ID": "in.amazon.mShop.android.shopping",
+    "APP_NAME": "Amazon India",
+    "MAX_THEMES": 5,
+    "MIN_REVIEW_COUNT": 200,
+    "DATE_RANGE_WEEKS": 8
+}
